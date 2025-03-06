@@ -44,5 +44,5 @@ This project implements Sentiment Analysis using Python in Google Colab. Sentime
 [Harish Panga](https://github.com/PANGAHARISH)
 
 ## License
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
